@@ -1,0 +1,14 @@
+This will be an API based project created with various programming technologies:
+
+Backend: Flask using Flask-RESTful to create APIs
+Frontend: React JS, HTML, CSS so that we can learn.
+DB: We can use NoSQL such as MongoDB.
+
+
+STEPS:
+
+1) Start with the backend first - creating all the APIs and then start working with the frontend stuff.
+	- Create the project folder.
+	- Establish the starting of the app and blueprint.
+	- Make connection with the database.
+2) Use POSTMAN or any API testing tool to test the created APIs.
