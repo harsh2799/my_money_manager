@@ -5,7 +5,8 @@ A simple money managing website with functionality to split the bill among peers
 
 MY_MONEY_MANAGER
 ----------------
-|
+```
+My_Money_Manager
 |- client [For the Front End - React]
     |---- public [Contains public assets.]
     |---- src
@@ -13,7 +14,6 @@ MY_MONEY_MANAGER
             |---- pages [contains .jsx files for all pages.]
             |---- App.js [file to load all pages]
             |---- injex.js [file to load App.js]
-            
 |- server [For the Backend - Flask, FlaskRestful, MongoDb]
     |
     |---- app
@@ -25,6 +25,7 @@ MY_MONEY_MANAGER
     |---- config.py [Contains all the configuration required for the project.]
     |---- config.json [Json file to contain all the Configuration in json format.]
     |---- run.py [To run the server]
+```
 
 # Commands:
 
