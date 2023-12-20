@@ -2,7 +2,7 @@
 A simple money managing website with functionality to split the bill among peers accurately and conviniently.
 
 # Folder Structure:
-
+'''
 MY_MONEY_MANAGER
 ----------------
 |
@@ -26,7 +26,7 @@ MY_MONEY_MANAGER
     |---- config.json [Json file to contain all the Configuration in json format.]
     |---- run.py [To run the server]
     
-
+'''
 # Commands:
 
 - To Run Client: cd client -> npm start client
