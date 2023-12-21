@@ -39,6 +39,7 @@ My_Money_Manager
 ```
 [] - User Able to Create Account
 [] - User Able to Sign In
+    - Google Sign-In?
 [] - User Able to add Initial Money to Spend in the month.
     - Credit and Debit based functionality
 [] - User able to create various categories he spents money on. [Bills, Rent, Food, Entertainment etc.]
@@ -46,4 +47,6 @@ My_Money_Manager
 [] - Inside each category list of items money spent on - Datewise [Name - Amount]
 [] - Past Data with list of amount set vs spent and then detailed view of each month.
 [] - Statistics to show most money spent on etc [We can figure it out].
+[] - Backup data to users google drive?
+    - similar to whatsapp backups? (We can figure it out)
 ```
