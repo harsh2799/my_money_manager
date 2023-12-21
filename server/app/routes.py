@@ -1,4 +1,8 @@
-from app import api 
-from app.resources import Home
+from app import app
 
-api.add_resource(Home, '/', '/home')
+
+@app.get("/", tags=["Root"])
+async def read_root():
+    users = []
+    
+    return {"message": users}

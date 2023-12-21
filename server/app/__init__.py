@@ -1,11 +1,5 @@
-from flask import Flask, Blueprint
-from flask_restful import Api
-from pymongo import MongoClient
+from fastapi import FastAPI 
 
-money_blueprint = Blueprint('money_blueprint', __name__)
-
-app = Flask(__name__)
-api = Api(app)
-client = MongoClient()
+app = FastAPI()
 
 from app import routes
